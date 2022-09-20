@@ -1,0 +1,165 @@
+.top-container {
+  background-color: #e0ebe8;
+  padding-top: 100px;
+  position: relative;
+}
+.middle-container {
+  margin: 100px 0;
+}
+footer {
+background-color: #66BFBF;
+padding-bottom: 16px;
+padding-top: 30px;
+}
+
+h1 {
+  margin:  50px auto 0 auto;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  padding: 20px;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  line-height: 2;
+}
+a:hover {
+  color: #14AAAF
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: gainsboro;
+  width: 3%;
+  margin-top: 10px;
+}
+
+.contact {
+  color: #EAF6F6;
+  background-color:#11999E;
+  padding: 3px 15px;
+  display: inline-block;
+  margin-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  border-radius: 8px;
+}
+.contact:hover {
+  background-color: #20C8B9;
+}
+
+p {
+    line-height: 2;
+}
+
+.hobbies {
+  color: #EAF6F6;
+  background-color:#11999E;
+  padding: 3px 15px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  border-radius: 8px;
+}
+.hobbies:hover {
+  background-color: #20C8B9;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 60px auto 60px auto;
+  text-align: left;
+
+}
+
+.coding-img {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.painting-img {
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right:300px;
+}
+
+.footer-link {
+  margin: 30px;
+  padding: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+
+header {
+  background-color: #e0ebe8;
+  color: #11999E;
+  padding: 10px;
+}
+
+.mid {
+  margin: 10px;
+}
+
+.hobby-l {
+  float: left;
+  width: 15%;
+}
+
+.hobby-r {
+  float: right;
+  width: 15%;
+}
+
+.ima {
+  width: 60px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.abc {
+  height: 50px;
+}
